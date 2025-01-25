@@ -1,0 +1,1 @@
+Introducing my project, Student Score Predictor – an innovative tool that predicts students' scores based on a few simple questions. This project not only provides insights into performance but also helps students identify and focus on their weak areas for better learning outcomes. Empowering education through data-driven solutions!
