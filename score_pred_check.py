@@ -10,7 +10,7 @@ st.markdown("###### Write down number of hours you study here: ")
 hours_study =st.number_input("",key='input_1')
 if hours_study:
  main_list.append(hours_study)
-st.markdown("###### Write down your previous score here: ")
+st.markdown("###### Write down your previous score here out of 100: ")
 prev_score = st.number_input("",key='input_2',format="%d",step=1)
 if prev_score:
  main_list.append(prev_score)
